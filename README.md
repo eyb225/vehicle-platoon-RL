@@ -1,4 +1,4 @@
-# vehicle-platoon-RL
+# Vehicle-Platoon-RL
 # Cooperative RL-Based Control for Heterogeneous Vehicle Platoons
 
 ## Overview
