@@ -22,9 +22,10 @@ The proposed control strategy is validated using the high-fidelity **Mixed Traff
 - **Simulation of Urban Mobility (SUMO)**: A microscopic traffic simulator.
 - **MATLAB Environment**: For detailed control algorithm implementation.
 
-Stop-and-go driving maneuvers under traffic oscillations demonstrate the robustness and efficiency of the control system.
+Stop-and-go driving maneuvers under traffic oscillations demonstrate the robustness and efficiency of the proposed platoon control system.
 
-https://github.com/user-attachments/assets/b059eb1b-6d5a-4fff-a035-6f80e831ad92
+https://github.com/user-attachments/assets/b919769e-ac46-4b25-aa2b-e9c71617844e
+
 
 
 ## Applications
