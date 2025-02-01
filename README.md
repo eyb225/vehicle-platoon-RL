@@ -24,9 +24,7 @@ The proposed control strategy is validated using the high-fidelity **Mixed Traff
 
 Stop-and-go driving maneuvers under traffic oscillations demonstrate the robustness and efficiency of the control system.
 
-
-https://github.com/user-attachments/assets/23c5ced4-8f06-404b-acdd-34068aa121ac
-
+https://github.com/user-attachments/assets/b059eb1b-6d5a-4fff-a035-6f80e831ad92
 
 
 ## Applications
