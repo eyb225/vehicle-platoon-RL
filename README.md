@@ -22,7 +22,12 @@ The proposed control strategy is validated using the high-fidelity **Mixed Traff
 - **Simulation of Urban Mobility (SUMO)**: A microscopic traffic simulator.
 - **MATLAB Environment**: For detailed control algorithm implementation.
 
-Various cooperative driving maneuvers under wide uncertainty ranges of vehicle parameters demonstrate the robustness and efficiency of the control system.
+Stop-and-go driving maneuvers under traffic oscillations demonstrate the robustness and efficiency of the control system.
+
+
+https://github.com/user-attachments/assets/23c5ced4-8f06-404b-acdd-34068aa121ac
+
+
 
 ## Applications
 
