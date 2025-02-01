@@ -3,13 +3,13 @@
 
 ## Overview
 
-Cooperative driving of connected and automated vehicles (CAVs) is a promising strategy for enhancing fuel efficiency, safety, and traffic flow. However, ensuring safe and efficient coordination among multiple CAVs in platoons, especially in the presence of disturbances and uncertainties, remains a major challenge in modern transportation systems.
+Cooperative driving of connected and automated vehicles (CAVs) is a promising strategy for enhancing fuel efficiency, safety, and traffic flow. However, achieving safe and efficient cooperative control for multiple CAVs within a platoon, particularly in the presence of disturbances and uncertainties, remains a major challenge in intelligent transportation systems (ITSs).
 
 This repository contains the implementation of a novel **model-free off-policy distributed cooperative control approach** for heterogeneous vehicle platoons in highway scenarios. The methodology integrates **reinforcement learning (RL)** with **robust compensating techniques**, enabling safe and efficient cooperative driving.
 
 ## Key Features
 
-- **Model-Free Control**: Utilizes input-output data instead of complex vehicle dynamical models to achieve optimal platoon control.
+- **Model-Free Control**: Utilizes input-output system data instead of complex vehicle dynamical models to achieve optimal platoon control.
 - **Integrated Control Strategy**:
   - **RL-Based Nominal Controller**: Learns optimal control policies through experiential learning.
   - **Robust Compensator**: Mitigates the effects of disturbances and uncertainties in vehicle dynamics.
