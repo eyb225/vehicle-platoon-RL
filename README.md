@@ -27,6 +27,12 @@ Stop-and-go driving maneuvers under traffic oscillations demonstrate the robustn
 https://github.com/user-attachments/assets/b919769e-ac46-4b25-aa2b-e9c71617844e
 
 
+The video below demonstrates a simulation of a platoon travelling along a highway under the PLF communication topology, equipped with model-free off-policy RL-based controller. 
+The methodology is implemented using MiTraS, a co-simulation platform, integrating MATLAB with SUMO simulator, exchanging traffic data through TraCI4MATLAB interface. 
+MATLAB is a programming language used for modelling the CAVs dynamics, designing tailored control strategies, and simulating communication network topologies. 
+SUMO is an open-source road traffic simulator that simulates vehicle movements and visualizes road traffic in urban scenario for cooperative driving manoeuvres.
+
+https://github.com/user-attachments/assets/66ced0e1-11ae-4493-9ccd-33cdb0ec4ccc
 
 ## Applications
 
