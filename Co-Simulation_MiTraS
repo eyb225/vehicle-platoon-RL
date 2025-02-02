@@ -1,0 +1,4 @@
+The video below demonstrates a simulation of a platoon travelling along a highway under the PLF communication topology, equipped with model-free off-policy RL-based controller. 
+The methodology is implemented using MiTraS, a co-simulation platform, integrating MATLAB with SUMO simulator, exchanging traffic data through TraCI4MATLAB interface. 
+MATLAB is a programming language used for modelling the CAVs dynamics, designing tailored control strategies, and simulating communication network topologies. 
+SUMO is an open-source road traffic simulator that simulates vehicle movements and visualizes road traffic in urban scenario for cooperative driving manoeuvres.
